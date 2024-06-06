@@ -12,4 +12,4 @@
         -   [MacOS](https://scratch3-files.just4fun.site/DynatalkHub-0.2.0-mac.zip)
         -   [Windows](https://scratch3-files.just4fun.site/DynatalkHub-0.2.0-win.zip)
         -   [Linux](https://github.com/wwj718/Dynatalk/tree/main/mqtt#FAQ)
-2. [打开例子](https://codelabclub.github.io/Snap/snap.html#open:https://wwj718.github.io/post/img/dynatalk-demo-20240331.xml), 开始编程。
+2. [打开例子](https://snap.codelab.club/snap.html#open:https://wwj718.github.io/post/img/dynatalk-demo-20240331.xml), 开始编程。
